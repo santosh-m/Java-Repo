@@ -1,4 +1,8 @@
-/* A Naive recursive implementation of 0-1 Knapsack problem */
+/* A Naive recursive implementation of 0-1 Knapsack problem */ 
+/**
+*@author santosh
+*
+*/
 class Knapsack
 {
  
